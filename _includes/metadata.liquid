@@ -225,7 +225,6 @@
         {% assign sameaslinks = sameaslinks | push: social[1].url %}
     {% endcase %}
   {% endfor %}
-
   <script type="application/ld+json">
     {
         "author":
@@ -244,4 +243,51 @@
         "@context": "https://schema.org"
     }
   </script>
+{% if page.url == '/' %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://thedoctorads.com/#igor-ivitskiy",
+      "name": "Igor Ivitskiy",
+      "givenName": "Igor",
+      "familyName": "Ivitskiy",
+      "honorificSuffix": "PhD",
+      "jobTitle": "Researcher in Computational Advertising & Applied AI",
+      "description": "Mathematician applying optimization theory to advertising systems and human-AI interaction. Former Assoc. Professor at KPI. 200+ publications, President of Ukraine's Prize for Young Scientists.",
+      "url": "https://ivitskiy.github.io",
+      "image": "{{ '/assets/img/prof_pic.jpg' | prepend: site.baseurl | prepend: site.url }}",
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
+        "sameAs": "https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute"
+      },
+      "award": [
+        "President of Ukraine's Prize for Young Scientists (2018)",
+        "Young Scientist of the Year in Ukraine (2020)",
+        "Europe's Best PPC Case - AdWorld Experience (2024)"
+      ],
+      "knowsAbout": [
+        "Computational Advertising",
+        "Mathematical Modeling",
+        "Human-AI Interaction",
+        "Google Ads Optimization",
+        "Causal Inference"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Igor_Ivitskiy",
+        "https://www.wikidata.org/wiki/Q134698095",
+        "https://scholar.google.com/citations?user=97E2v_EAAAAJ",
+        "https://orcid.org/0000-0002-9749-6414",
+        "https://www.linkedin.com/in/ivitskiy",
+        "https://ivitskiy.com/en/ivitskiy/",
+        "https://thedoctorads.com/"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://ivitskiy.github.io/"
+      }
+    }
+  </script>
+ {% endif %}
 {% endif %}
