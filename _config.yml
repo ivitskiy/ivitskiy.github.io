@@ -266,7 +266,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   last_name: [Ivitskiy]
   first_name: [Igor]
-
+  orcid: 0000-0002-9749-6414
+  google_scholar_id: 97E2v_EAAAAJ
   style: apa
   locale: en
 
