@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-welcome-to-my-research-hub",
+        
+          title: "Welcome to my research hub",
+        
+        description: "Initial commit.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/welcome/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
