@@ -2,9 +2,9 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu:  https://kpi.academia.edu/ivitskiy
-#  organization: princeton # your organization as appears in the subdomain
-#  username:  AlbertEinstein # your username
+academia_edu:
+  organization: kpi
+  username:  ivitskiy
 # acm_id: # your dl.acm.org/profile/id
 arxiv_id: 0000-0002-9749-6414
 # blogger_url: # your blogger URL
@@ -30,15 +30,15 @@ linkedin_username: ivitskiy
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: ivitskiy
 orcid_id: 0000-0002-9749-6414
-# osf_id: # your OSF ID
+osf_id: https://osf.io/9znga/
 # pinterest_id: # your pinterest id
-# publons_id: # your ID on Publons
+publons_id: N-6430-2014
 quora_username: Igor-Ivitskiy
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Igor-Ivitskiy
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 97E2v_EAAAAJ
 scopus_id: 57193360633
-# semanticscholar_id: 2384911273
+semanticscholar_id: 2384911273
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
@@ -50,7 +50,7 @@ wikidata_id: Q134698095
 wikipedia_id: Igor_Ivitskiy
 work_url: https://thedoctorads.com
 x_username: ivitskiy
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: igordoctorads
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
