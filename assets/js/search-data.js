@@ -16,26 +16,70 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-mastering-bid-adjustments-in-google-ads-for-better-campaign-results",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Mastering Bid Adjustments in Google Ads for Better Campaign Results <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://medium.com/@ivitskiy/mastering-bid-adjustments-in-google-ads-for-better-campaign-results-a497be4db1cf?source=rss-da3cb2228471------2", "_blank");
+          
+        },
+      },{id: "post-the-complete-guide-to-google-ads-bid-adjustments-a-data-driven-approach-for-technical-principals",
+        
+          title: 'The Complete Guide to Google Ads Bid Adjustments: A Data-Driven Approach for Technical... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Bid adjustments represent one of the most underutilized yet powerful levers in your Google Ads campaigns. While most advertisers treat them as simple percentage modifiers, the reality is far more complex. Recent research from Walmart&amp;#8217;s advertising optimization team reveals that geographic bid adjustments can unlock significant revenue potential when properly implemented, demonstrating clear RPM (Revenue ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.thedoctorads.com/mastering-bid-adjustments-in-google-ads-for-better-campaign-results/", "_blank");
+          
+        },
+      },{id: "post-mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results",
+        
+          title: 'Mastering Google Ads Target CPA Bidding for Optimal Campaign Results <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ivitskiy/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results-4817f1750a47?source=rss-da3cb2228471------2", "_blank");
+          
+        },
+      },{id: "post-google-ads-target-cpa-bidding-a-data-driven-analysis-for-technical-principals",
+        
+          title: 'Google Ads Target CPA Bidding: A Data-Driven Analysis for Technical Principals <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The Target CPA bid strategy represents one of the most sophisticated approaches within Google Ads, yet the platform&amp;#8217;s documentation often treats this smart bidding strategy as a simple &amp;#8220;set and forget&amp;#8221; tool. This analysis deconstructs the underlying mechanics of these bidding strategies, exposes the inherent conflicts of interest, and provides a quantitative framework for strategic ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.thedoctorads.com/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results/", "_blank");
+          
+        },
+      },{id: "post-mastering-google-ads-portfolio-bid-strategies-for-better-campaigns",
+        
+          title: 'Mastering Google Ads Portfolio Bid Strategies for Better Campaigns <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ivitskiy/mastering-google-ads-portfolio-bid-strategies-for-better-campaigns-862f21d81918?source=rss-da3cb2228471------2", "_blank");
+          
+        },
+      },{id: "post-mastering-google-ads-portfolio-bid-strategies-a-definitive-guide",
+        
+          title: 'Mastering Google Ads Portfolio Bid Strategies: A Definitive Guide <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Introduction to Google Ads Portfolio Bid Strategies: Beyond Manual Bidding Most advertisers using Google Ads automated bidding are leaving money on the table. They treat powerful features like portfolio bidding strategy as a &amp;#8220;set it and forget it&amp;#8221; tool, trusting the platform&amp;#8217;s defaults. This is a costly mistake. True scalability isn&amp;#8217;t found in Google&amp;#8217;s recommendations; ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.thedoctorads.com/mastering-google-ads-portfolio-bid-strategies/", "_blank");
           
         },
       },{
