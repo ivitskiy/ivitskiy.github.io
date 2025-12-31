@@ -18,7 +18,7 @@ arxiv_id: 0000-0002-9749-6414
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
-ieee_id: https://ieeexplore.ieee.org/author/37086246604
+ieee_id: 37086246604
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -30,11 +30,11 @@ linkedin_username: ivitskiy
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: ivitskiy
 orcid_id: 0000-0002-9749-6414
-osf_id: https://osf.io/9znga/
+osf_id: 9znga
 # pinterest_id: # your pinterest id
 publons_id: N-6430-2014
 quora_username: Igor-Ivitskiy
-research_gate_profile: https://www.researchgate.net/profile/Igor-Ivitskiy
+research_gate_profile: Igor-Ivitskiy
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 97E2v_EAAAAJ
 scopus_id: 57193360633
@@ -47,7 +47,7 @@ semanticscholar_id: 2384911273
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: Q134698095
-wikipedia_id: Igor_Ivitskiy
+# wikipedia_id: Igor_Ivitskiy
 work_url: https://thedoctorads.com
 x_username: ivitskiy
 youtube_id: igordoctorads
