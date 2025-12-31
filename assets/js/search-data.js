@@ -125,6 +125,20 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-9749-6414", "_blank");
         },
       },{
+        id: 'social-osf',
+        title: 'Open Science Framework',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://osf.io/https://osf.io/9znga//", "_blank");
+        },
+      },{
+        id: 'social-publons',
+        title: 'Publons',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://publons.com/a/N-6430-2014/", "_blank");
+        },
+      },{
         id: 'social-quora',
         title: 'Quora',
         section: 'Socials',
@@ -136,7 +150,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile//", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Igor-Ivitskiy/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -151,6 +165,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.scopus.com/authid/detail.uri?authorId=57193360633", "_blank");
+        },
+      },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/2384911273", "_blank");
         },
       },{
         id: 'social-wikidata',
@@ -179,6 +200,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/ivitskiy", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@igordoctorads", "_blank");
         },
       },{
       id: 'light-theme',
