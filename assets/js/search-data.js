@@ -101,7 +101,7 @@ ninja.data = [{
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/37086246604/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/37086246604/", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -129,7 +129,7 @@ ninja.data = [{
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/https://osf.io/9znga//", "_blank");
+          window.open("https://osf.io/9znga/", "_blank");
         },
       },{
         id: 'social-publons',
@@ -150,7 +150,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Igor-Ivitskiy/", "_blank");
+          window.open("https://www.researchgate.net/profile/Igor-Ivitskiy/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -179,13 +179,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.wikidata.org/wiki/Q134698095", "_blank");
-        },
-      },{
-        id: 'social-wikipedia',
-        title: 'Wikipedia',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://wikipedia.org/wiki/User:Igor_Ivitskiy", "_blank");
         },
       },{
         id: 'social-work',
