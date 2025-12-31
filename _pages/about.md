@@ -2,26 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Assoc. Professor</b>. Researcher in Computational Advertising. Founder of <a href='https://thedoctorads.com'>Doctor Ads</a>.
+subtitle: <b>Former Assoc. Professor, KPI</b>. Researcher in Computational Advertising & Applied AI.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # false = фото прямоугольное (стиль журнала), true = кружок
+  image_circular: false
 
-news: false  # Показывает новости (можно отключить: false)
-selected_papers: true # Показывает статьи, где вы поставили selected=true в bib файле
-social: true  # Показывает иконки соцсетей из конфига
+news: false
+selected_papers: true
+social: true
 ---
 
-I am a researcher and practitioner working at the intersection of **Applied Mathematics, Marketing Science, and Artificial Intelligence**.
+I am a mathematician applying optimization theory to systems that operate under uncertainty.
 
-My primary focus is solving the "Black Box" problem in modern advertising platforms (Google Ads, Meta). I developed the **M.A.T.H. Framework** — a methodological approach that translates vague marketing goals into rigorous mathematical objective functions.
+My academic work focused on mathematical modeling of non-Newtonian fluids and polymer composites — complex physical systems where classical equations fail. This research produced 200+ publications, 50+ patents, and earned the President of Ukraine's Prize for Young Scientists (2018).
 
-Previously, I conducted research in mathematical modeling of polymer composite materials. Today, I apply similar principles of **control theory and optimization** to manage marketing budgets at scale.
+Today I apply the same analytical approach to two domains:
 
-### Current Research Interests
+**Computational Advertising.** Modern ad platforms (Google, Meta) are black-box optimization systems. I reverse-engineer their bid algorithms, measure causal incrementality, and build systematic frameworks for budget allocation at scale.
 
-* **Incrementality Measurement:** Causal inference in noisy auction environments.
-* **Bid Strategy Engineering:** Reverse-engineering ad platform algorithms.
-* **Marketing Operations:** Moving from manual "optimization" to native decision loops.
+**Human-AI Interaction.** Large language models create new paradigms for human-computer collaboration. I research and build systems that optimize this interaction — from prompt engineering methodologies to AI-augmented decision workflows.
+
+### Research Interests
+
+* Causal inference in noisy auction environments
+* Reverse-engineering of ad platform algorithms
+* Systematic frameworks for human-LLM collaboration
+* Control theory applications in marketing operations
