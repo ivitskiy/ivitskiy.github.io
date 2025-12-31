@@ -57,5 +57,6 @@ youtube_id: igordoctorads
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
 custom_social:
-  title: Personal Website
+  logo: https://www.ivitskiy.com/wp-content/uploads/2023/04/iivitskiy_logoblack_gorizontal.png
+  title: Ivitskiy Ads Lab
   url: https://ivitskiy.com/
