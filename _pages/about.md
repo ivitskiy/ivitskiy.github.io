@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Researcher in Computational Advertising</a>. Creator of the M.A.T.H. Framework.
+subtitle: Researcher in Computational Advertising. Creator of the M.A.T.H. Framework.
 
 profile:
   align: right
@@ -26,6 +26,4 @@ Previously, I conducted research in mathematical modeling of polymer composite m
 
 * **Incrementality Measurement:** Causal inference in noisy auction environments.
 * **Bid Strategy Engineering:** Reverse-engineering ad platform algorithms.
-* **Marketing Operations:** Moving from manual "optimization" to API-native decision loops.
-
-If you are interested in collaboration or consulting, feel free to [contact me](mailto:your-email@example.com).
+* **Marketing Operations:** Moving from manual "optimization" to native decision loops.
