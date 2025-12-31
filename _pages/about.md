@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher in Computational Advertising. Creator of the M.A.T.H. Framework.
+subtitle: <b>Assoc. Professor</b>. Researcher in Researcher in Computational Advertising. Founder of <a href='https://thedoctorads.com'>Doctor Ads</a>.
 
 profile:
   align: right
