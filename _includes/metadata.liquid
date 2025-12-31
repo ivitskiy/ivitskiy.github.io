@@ -207,7 +207,7 @@
         {% capture link %}https://www.wikidata.org/wiki/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'wikipedia_id' %}
-        {% capture link %}https://wikipedia.org/wiki/User:{{ social[1] }}{% endcapture %}
+        {% capture link %}https://en.wikipedia.org/wiki/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'work_url' %}
         {% capture link %}{{ social[1] }}{% endcapture %}
