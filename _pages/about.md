@@ -8,10 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # false = фото прямоугольное (стиль журнала), true = кружок
-  address: >
-    <p>London / Online</p>
 
-news: true  # Показывает новости (можно отключить: false)
+news: false  # Показывает новости (можно отключить: false)
 selected_papers: true # Показывает статьи, где вы поставили selected=true в bib файле
 social: true  # Показывает иконки соцсетей из конфига
 ---
