@@ -83,46 +83,102 @@ ninja.data = [{
           
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-academia_edu',
+        title: 'Academia_edu',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-arxiv',
+        title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("https://arxiv.org/a/0000-0002-9749-6414.html", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/37086246604/", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/ivitskiy", "_blank");
+        },
+      },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@ivitskiy", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-9749-6414", "_blank");
+        },
+      },{
+        id: 'social-quora',
+        title: 'Quora',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.quora.com/profile/Igor-Ivitskiy", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile//", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=97E2v_EAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-scopus',
+        title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57193360633", "_blank");
+        },
+      },{
+        id: 'social-wikidata',
+        title: 'Wikidata',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.wikidata.org/wiki/Q134698095", "_blank");
+        },
+      },{
+        id: 'social-wikipedia',
+        title: 'Wikipedia',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://wikipedia.org/wiki/User:Igor_Ivitskiy", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://thedoctorads.com", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ivitskiy", "_blank");
         },
       },{
       id: 'light-theme',
