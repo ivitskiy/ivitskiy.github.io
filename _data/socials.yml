@@ -47,7 +47,7 @@ semanticscholar_id: 2384911273
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: Q134698095
-# wikipedia_id: Igor_Ivitskiy
+wikipedia_id: Igor_Ivitskiy
 work_url: https://thedoctorads.com
 x_username: ivitskiy
 youtube_id: igordoctorads
@@ -56,3 +56,7 @@ youtube_id: igordoctorads
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
+custom_social:
+  logo: # можно оставить пустым
+  title: Personal Website
+  url: https://ivitskiy.com/
