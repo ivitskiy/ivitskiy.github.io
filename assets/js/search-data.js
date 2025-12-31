@@ -181,6 +181,13 @@ ninja.data = [{
           window.open("https://www.wikidata.org/wiki/Q134698095", "_blank");
         },
       },{
+        id: 'social-wikipedia',
+        title: 'Wikipedia',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://wikipedia.org/wiki/User:Igor_Ivitskiy", "_blank");
+        },
+      },{
         id: 'social-work',
         title: 'Work',
         section: 'Socials',
@@ -200,6 +207,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://youtube.com/@igordoctorads", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ivitskiy.com/", "_blank");
         },
       },{
       id: 'light-theme',
