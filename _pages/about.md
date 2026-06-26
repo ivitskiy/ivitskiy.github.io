@@ -26,7 +26,7 @@ Today I apply the same analytical approach to two domains:
 
 ### Research Interests
 
-* Causal inference in noisy auction environments
-* Reverse-engineering of ad platform algorithms
-* Systematic frameworks for human-LLM collaboration
-* Control theory applications in marketing operations
+- Causal inference in noisy auction environments
+- Reverse-engineering of ad platform algorithms
+- Systematic frameworks for human-LLM collaboration
+- Control theory applications in marketing operations
