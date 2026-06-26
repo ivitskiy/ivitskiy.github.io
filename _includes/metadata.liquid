@@ -234,7 +234,7 @@
         },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
+        "description": "{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% endif %}",
         "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
         {% if sameaslinks != blank %}
         "sameAs": {{ sameaslinks | jsonify }},
@@ -274,11 +274,18 @@
         "Google Ads Optimization",
         "Causal Inference"
       ],
+      "knowsLanguage": ["English", "Ukrainian", "Russian"],
+      "nationality": {
+        "@type": "Country",
+        "name": "Ukraine"
+      },
       "sameAs": [
         "https://en.wikipedia.org/wiki/Igor_Ivitskiy",
         "https://www.wikidata.org/wiki/Q134698095",
         "https://scholar.google.com/citations?user=97E2v_EAAAAJ",
         "https://orcid.org/0000-0002-9749-6414",
+        "https://www.researchgate.net/profile/Igor-Ivitskiy",
+        "https://www.semanticscholar.org/author/2384911273",
         "https://www.linkedin.com/in/ivitskiy",
         "https://ivitskiy.com/en/ivitskiy/",
         "https://thedoctorads.com/"
