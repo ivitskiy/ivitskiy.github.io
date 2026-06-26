@@ -18,7 +18,7 @@ icon: ⚛️
 
 # КРИТИЧЕСКИ ВАЖНЫЕ НАСТРОЙКИ URL (Не менять!)
 url: https://ivitskiy.github.io
-baseurl: ""  # Обязательно пусто! Иначе CSS не загрузится.
+baseurl: "" # Обязательно пусто! Иначе CSS не загрузится.
 last_updated: false
 impressum_path:
 back_to_top: true
