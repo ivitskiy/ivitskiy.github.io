@@ -97,11 +97,32 @@ ninja.data = [{
           window.open("https://arxiv.org/a/0000-0002-9749-6414.html", "_blank");
         },
       },{
+        id: 'social-facebook',
+        title: 'Facebook',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://facebook.com/ivitskiy", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ivitskiy", "_blank");
+        },
+      },{
         id: 'social-ieee',
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
           window.open("https://ieeexplore.ieee.org/author/37086246604/", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/ivitskiy", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -172,6 +193,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.semanticscholar.org/author/2384911273", "_blank");
+        },
+      },{
+        id: 'social-telegram',
+        title: 'telegram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://telegram.me/ivitskiy", "_blank");
         },
       },{
         id: 'social-wikidata',
