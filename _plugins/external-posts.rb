@@ -46,7 +46,28 @@ module ExternalPosts
       end
     end
 
+    # Normalize "smart" typography (curly quotes, em/en dashes, ellipsis,
+    # non-breaking spaces) to plain ASCII. The generated feed.xml is valid
+    # UTF-8, but some downstream RSS consumers (e.g. Goodreads' blog importer)
+    # choke on non-ASCII punctuation and render U+FFFD replacement chars.
+    # Emitting ASCII keeps those consumers clean and matches the plain-
+    # punctuation house style.
+    def sanitize_typography(text)
+      return text unless text.is_a?(String)
+      text
+        .gsub(/[‘’‚‛′]/, "'")
+        .gsub(/[“”„‟″]/, '"')
+        .gsub(/[–—―]/, '-')
+        .gsub("…", '...')
+        .gsub(" ", ' ')
+    end
+
     def create_document(site, source_name, url, content)
+      content = content.merge(
+        title: sanitize_typography(content[:title]),
+        content: sanitize_typography(content[:content]),
+        summary: sanitize_typography(content[:summary])
+      )
       # check if title is composed only of whitespace or foreign characters
       if content[:title].gsub(/[^\w]/, '').strip.empty?
         # use the source name and last url segment as fallback
