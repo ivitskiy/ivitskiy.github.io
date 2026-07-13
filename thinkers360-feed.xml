@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Ivitskiy - Selected Thought Leadership</title>
+    <link>https://ivitskiy.com</link>
+    <atom:link href="https://ivitskiy.github.io/thinkers360-feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Curated selection of Igor Ivitskiy's authored articles on quantitative marketing, Google Ads profitability and applied AI (Profit Forensics, M.A.T.H. Framework).</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 10:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Heuristic Ceiling: A Performance Bound Effort Cannot Break</title>
+      <link>https://www.linkedin.com/pulse/heuristic-ceiling-performance-bound-effort-cannot-break-igor-ivitskiy-iqkoc</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/heuristic-ceiling-performance-bound-effort-cannot-break-igor-ivitskiy-iqkoc</guid>
+      <pubDate>Mon, 06 Jul 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Why past a certain point extra effort on a Google Ads account stops producing profit, framed as a mathematical performance bound.</description>
+    </item>
+    <item>
+      <title>The Linear-Exponential Gap: Why Ad Decisions Now Outpace Human Reaction</title>
+      <link>https://www.linkedin.com/pulse/linear-exponential-gap-why-ad-decisions-now-outpace-human-ivitskiy-yz3he</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/linear-exponential-gap-why-ad-decisions-now-outpace-human-ivitskiy-yz3he</guid>
+      <pubDate>Mon, 29 Jun 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Automated bidding moves at exponential speed while human review stays linear, and what that gap means for advertisers.</description>
+    </item>
+    <item>
+      <title>Profit Forensics: From Academic Framework to Diagnostic</title>
+      <link>https://www.linkedin.com/pulse/profit-forensics-from-academic-framework-diagnostic-igor-ivitskiy-jxa0e</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/profit-forensics-from-academic-framework-diagnostic-igor-ivitskiy-jxa0e</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>The Profit Forensics method for auditing where ad budgets actually leak, moved from theory to a working diagnostic.</description>
+    </item>
+    <item>
+      <title>The ROAS Fallacy: Why Average Returns Mislead Scaling</title>
+      <link>https://www.linkedin.com/pulse/roas-fallacy-why-average-returns-mislead-scaling-igor-ivitskiy-lgb0e</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/roas-fallacy-why-average-returns-mislead-scaling-igor-ivitskiy-lgb0e</guid>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Average ROAS hides the marginal math that actually governs whether scaling adds or destroys profit.</description>
+    </item>
+    <item>
+      <title>The Correlation Trap: Pearl&#x27;s Adjustment Formula for Marketing</title>
+      <link>https://www.linkedin.com/pulse/correlation-trap-pearls-adjustment-formula-marketing-igor-ivitskiy-0edue</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/correlation-trap-pearls-adjustment-formula-marketing-igor-ivitskiy-0edue</guid>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Applying causal inference and Pearl&#x27;s adjustment to separate real ad effects from correlation artifacts.</description>
+    </item>
+    <item>
+      <title>Marketing Physics: Treating Ad Markets as Systems</title>
+      <link>https://www.linkedin.com/pulse/marketing-physics-treating-ad-markets-systems-igor-ivitskiy-gor7f</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/marketing-physics-treating-ad-markets-systems-igor-ivitskiy-gor7f</guid>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>A physicist&#x27;s-eye view of ad auctions as dynamic systems with measurable limits and forces.</description>
+    </item>
+    <item>
+      <title>The GIGO Principle Formalized: Why Data Quality Bounds Results</title>
+      <link>https://www.linkedin.com/pulse/gigo-principle-formalized-why-data-quality-bounds-igor-ivitskiy-iribe</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/gigo-principle-formalized-why-data-quality-bounds-igor-ivitskiy-iribe</guid>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>A formal bound showing how conversion-data quality caps what any optimization can achieve.</description>
+    </item>
+    <item>
+      <title>The Black Box Paradox: Optimizing Against an Untrusted Oracle</title>
+      <link>https://www.linkedin.com/pulse/black-box-paradox-optimizing-against-untrusted-oracle-igor-ivitskiy-4znoe</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/black-box-paradox-optimizing-against-untrusted-oracle-igor-ivitskiy-4znoe</guid>
+      <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>How to make decisions when the platform&#x27;s automation is a black box you cannot fully trust.</description>
+    </item>
+    <item>
+      <title>Stop Trusting Google&#x27;s Defaults: A First-Principles Guide</title>
+      <link>https://www.linkedin.com/pulse/stop-trusting-googles-defaults-first-principles-guide-ivitskiy-phd-eml2e</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/stop-trusting-googles-defaults-first-principles-guide-ivitskiy-phd-eml2e</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>A first-principles walk through the Google Ads defaults that quietly cost advertisers money.</description>
+    </item>
+    <item>
+      <title>Beyond the Critical Threshold: When Intuition Stops Working</title>
+      <link>https://www.linkedin.com/pulse/beyond-critical-threshold-when-intuition-stops-working-igor-ivitskiy-ypmdf</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/beyond-critical-threshold-when-intuition-stops-working-igor-ivitskiy-ypmdf</guid>
+      <pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>The account scale past which human intuition breaks and only explicit models keep working.</description>
+    </item>
+    <item>
+      <title>Cognitive Hygiene: Pre-Registration and Adversarial Review</title>
+      <link>https://www.linkedin.com/pulse/cognitive-hygiene-pre-registration-adversarial-review-igor-ivitskiy-kx9ge</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/cognitive-hygiene-pre-registration-adversarial-review-igor-ivitskiy-kx9ge</guid>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Borrowing pre-registration and adversarial review from science to keep marketing decisions honest.</description>
+    </item>
+    <item>
+      <title>Cycle Velocity: The Compounding Math of Optimization</title>
+      <link>https://www.linkedin.com/pulse/cycle-velocity-compounding-math-optimization-igor-ivitskiy-d6rie</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/cycle-velocity-compounding-math-optimization-igor-ivitskiy-d6rie</guid>
+      <pubDate>Mon, 20 Apr 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Why the speed of your optimization loop compounds and often matters more than any single change.</description>
+    </item>
+    <item>
+      <title>The Diffraction Limit of Marketing Measurement</title>
+      <link>https://www.linkedin.com/pulse/diffraction-limit-marketing-measurement-igor-ivitskiy-nf2me</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/diffraction-limit-marketing-measurement-igor-ivitskiy-nf2me</guid>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>There is a resolution limit below which marketing measurement cannot distinguish signal from noise.</description>
+    </item>
+    <item>
+      <title>The Illusion of Precision: Why Modeled Conversions Distort</title>
+      <link>https://www.linkedin.com/pulse/illusion-precision-why-modeled-conversions-distort-igor-ivitskiy-rpune</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/illusion-precision-why-modeled-conversions-distort-igor-ivitskiy-rpune</guid>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>Modeled conversions look precise and can systematically distort the decisions built on them.</description>
+    </item>
+    <item>
+      <title>The M.A.T.H. Framework: A Recursive Loop for Quant Marketing</title>
+      <link>https://www.linkedin.com/pulse/math-framework-recursive-loop-quant-marketing-noisy-igor-ivitskiy-vz1je</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/math-framework-recursive-loop-quant-marketing-noisy-igor-ivitskiy-vz1je</guid>
+      <pubDate>Mon, 30 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>The M.A.T.H. Framework as a recursive loop for running quantitative marketing under noise.</description>
+    </item>
+    <item>
+      <title>Observational Collapse: The Vanishing Conversion Funnel</title>
+      <link>https://www.linkedin.com/pulse/observational-collapse-vanishing-conversion-funnel-igor-ivitskiy-jwawc</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/observational-collapse-vanishing-conversion-funnel-igor-ivitskiy-jwawc</guid>
+      <pubDate>Mon, 23 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>How privacy changes collapse the observable funnel and what advertisers can still measure.</description>
+    </item>
+    <item>
+      <title>Pausing PerformanceMax Rarely Dents Conversions</title>
+      <link>https://www.linkedin.com/pulse/pausing-performancemax-rarely-dents-conversions-whole-igor-ivitskiy-gmsne</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/pausing-performancemax-rarely-dents-conversions-whole-igor-ivitskiy-gmsne</guid>
+      <pubDate>Mon, 16 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>A data look at what actually happens to total conversions when PerformanceMax is paused.</description>
+    </item>
+    <item>
+      <title>The Complete Guide to Google Ads Bid Adjustments</title>
+      <link>https://thedoctorads.com/blog/mastering-bid-adjustments-in-google-ads-for-better-campaign-results</link>
+      <guid isPermaLink="true">https://thedoctorads.com/blog/mastering-bid-adjustments-in-google-ads-for-better-campaign-results</guid>
+      <pubDate>Mon, 09 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>A data-driven guide to device, location, audience and schedule bid adjustments in Google Ads.</description>
+    </item>
+    <item>
+      <title>Google Ads Target CPA Bidding: A Data-Driven Analysis</title>
+      <link>https://thedoctorads.com/blog/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results</link>
+      <guid isPermaLink="true">https://thedoctorads.com/blog/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results</guid>
+      <pubDate>Mon, 02 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>How Target CPA bidding really behaves across accounts and where it lands versus its promise.</description>
+    </item>
+    <item>
+      <title>Mastering Google Ads Portfolio Bid Strategies</title>
+      <link>https://thedoctorads.com/blog/mastering-google-ads-portfolio-bid-strategies</link>
+      <guid isPermaLink="true">https://thedoctorads.com/blog/mastering-google-ads-portfolio-bid-strategies</guid>
+      <pubDate>Mon, 23 Feb 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Igor Ivitskiy</dc:creator>
+      <description>A definitive guide to portfolio bid strategies and when they help or hurt performance.</description>
+    </item>
+  </channel>
+</rss>
