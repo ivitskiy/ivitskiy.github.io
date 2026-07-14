@@ -16,7 +16,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-mastering-bid-adjustments-in-google-ads-for-better-campaign-results",
+        },{id: "post-the-best-countries-to-target-in-google-ads-and-the-one-most-advertisers-wrongly-exclude",
+        
+          title: 'The Best Countries to Target in Google Ads (And the One Most Advertisers... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. Most advertisers copy the same geographic playbook: target the United States, maybe a few rich English-speaking countries, and exclude the places everyone else excludes. That herd behavior creates a quiet opportunity, because the market everyone avoids is often the one with the least competition and the best return. In one vertical, Mexico ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-geo-arbitrage-targeting", "_blank");
+          
+        },
+      },{id: "post-google-ads-benchmarks-2026-why-average-cpc-is-a-trap-cpc-varies-8-4x-ctr-145x",
+        
+          title: 'Google Ads Benchmarks 2026: Why Average CPC Is a Trap (CPC Varies 8.4x,... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. When you search for a Google Ads benchmark, you get one tidy number: the average CPC, the average click-through rate. That number is close to useless, because the spread between industries is enormous. In a corpus of real accounts, the median cost per click ranged 8.4x between the cheapest and most expensive ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-benchmarks-average-cpc-ctr", "_blank");
+          
+        },
+      },{id: "post-how-much-of-your-google-ads-budget-is-wasted-and-why-your-negative-keyword-list-is-not-saving-you",
+        
+          title: 'How Much of Your Google Ads Budget Is Wasted? (And Why Your Negative... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. Most owners believe a big negative-keyword list protects them from wasted spend. Across 31 audited accounts, the size of that list has almost no relationship to how much budget gets wasted: the correlation is near zero (r = -0.10). Wasted spend is real, it is large, and negatives are not the lever ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/how-much-google-ads-budget-is-wasted", "_blank");
+          
+        },
+      },{id: "post-your-best-performing-ad-campaign-is-often-the-one-creating-the-least-new-revenue",
+        
+          title: 'Your Best-Performing Ad Campaign Is Often the One Creating the Least New Revenue... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ivitskiy/your-best-performing-ad-campaign-is-often-the-one-creating-the-least-new-revenue-ee3d4979008d?source=rss-da3cb2228471------2", "_blank");
+          
+        },
+      },{id: "post-mastering-bid-adjustments-in-google-ads-for-better-campaign-results",
         
           title: 'Mastering Bid Adjustments in Google Ads for Better Campaign Results <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -27,15 +71,15 @@ ninja.data = [{
             window.open("https://medium.com/@ivitskiy/mastering-bid-adjustments-in-google-ads-for-better-campaign-results-a497be4db1cf?source=rss-da3cb2228471------2", "_blank");
           
         },
-      },{id: "post-the-complete-guide-to-google-ads-bid-adjustments-a-data-driven-approach-for-technical-principals",
+      },{id: "post-google-ads-bid-adjustments-the-profit-lever-most-accounts-ignore",
         
-          title: 'The Complete Guide to Google Ads Bid Adjustments: A Data-Driven Approach for Technical... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Google Ads Bid Adjustments: The Profit Lever Most Accounts Ignore <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Bid adjustments represent one of the most underutilized yet powerful levers in your Google Ads campaigns. While most advertisers treat them as simple percentage modifiers, the reality is far more complex. Recent research from Walmart&amp;#8217;s advertising optimization team reveals that geographic bid adjustments can unlock significant revenue potential when properly implemented, demonstrating clear RPM (Revenue ... Read more",
+        description: "The short version. A bid adjustment raises or lowers your bid for a specific device, location, time, audience, or demographic. In the manual-bidding era they were a primary lever. Under Smart Bidding, most of them are signals the algorithm reads and largely sets for itself, not dials you turn by hand. That shift changes what ... Read more",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.thedoctorads.com/mastering-bid-adjustments-in-google-ads-for-better-campaign-results/", "_blank");
+            window.open("https://thedoctorads.com/blog/mastering-bid-adjustments-in-google-ads-for-better-campaign-results", "_blank");
           
         },
       },{id: "post-mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results",
@@ -49,15 +93,15 @@ ninja.data = [{
             window.open("https://medium.com/@ivitskiy/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results-4817f1750a47?source=rss-da3cb2228471------2", "_blank");
           
         },
-      },{id: "post-google-ads-target-cpa-bidding-a-data-driven-analysis-for-technical-principals",
+      },{id: "post-google-ads-target-cpa-bidding-how-often-it-actually-hits-the-target",
         
-          title: 'Google Ads Target CPA Bidding: A Data-Driven Analysis for Technical Principals <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Google Ads Target CPA Bidding: How Often It Actually Hits the Target <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "The Target CPA bid strategy represents one of the most sophisticated approaches within Google Ads, yet the platform&amp;#8217;s documentation often treats this smart bidding strategy as a simple &amp;#8220;set and forget&amp;#8221; tool. This analysis deconstructs the underlying mechanics of these bidding strategies, exposes the inherent conflicts of interest, and provides a quantitative framework for strategic ... Read more",
+        description: "The short version. Target CPA bidding lets you name a cost per conversion, and Google Ads sets bids automatically to hit it. It is sold as a promise: name your number, the machine holds it. Across $42M of real spend, that promise holds far less often than advertisers assume. Only 1 in 3 Target CPA ... Read more",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.thedoctorads.com/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results/", "_blank");
+            window.open("https://thedoctorads.com/blog/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results", "_blank");
           
         },
       },{id: "post-mastering-google-ads-portfolio-bid-strategies-for-better-campaigns",
@@ -71,15 +115,15 @@ ninja.data = [{
             window.open("https://medium.com/@ivitskiy/mastering-google-ads-portfolio-bid-strategies-for-better-campaigns-862f21d81918?source=rss-da3cb2228471------2", "_blank");
           
         },
-      },{id: "post-mastering-google-ads-portfolio-bid-strategies-a-definitive-guide",
+      },{id: "post-google-ads-portfolio-bid-strategies-what-133m-in-spend-reveals",
         
-          title: 'Mastering Google Ads Portfolio Bid Strategies: A Definitive Guide <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Google Ads Portfolio Bid Strategies: What $133M in Spend Reveals <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Introduction to Google Ads Portfolio Bid Strategies: Beyond Manual Bidding Most advertisers using Google Ads automated bidding are leaving money on the table. They treat powerful features like portfolio bidding strategy as a &amp;#8220;set it and forget it&amp;#8221; tool, trusting the platform&amp;#8217;s defaults. This is a costly mistake. True scalability isn&amp;#8217;t found in Google&amp;#8217;s recommendations; ... Read more",
+        description: "The short version. A portfolio bid strategy pools several campaigns under one shared automated goal, so Google Ads optimizes bids across the whole group instead of one campaign at a time. It is the right tool when campaigns share a conversion goal and no single one has enough data to bid well alone. But in ... Read more",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.thedoctorads.com/mastering-google-ads-portfolio-bid-strategies/", "_blank");
+            window.open("https://thedoctorads.com/blog/mastering-google-ads-portfolio-bid-strategies", "_blank");
           
         },
       },{
