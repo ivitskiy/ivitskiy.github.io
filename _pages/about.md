@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+canonical: https://ivitskiy.com/en/ivitskiy/
 subtitle: <b>Former Assoc. Professor, KPI</b>. Researcher in Computational Advertising & Applied AI.
 
 profile:
@@ -30,3 +31,7 @@ Today I apply the same analytical approach to two domains:
 - Reverse-engineering of ad platform algorithms
 - Systematic frameworks for human-LLM collaboration
 - Control theory applications in marketing operations
+
+---
+
+This site covers the research side of my work. For the full biography and current commercial practice, see [ivitskiy.com](https://ivitskiy.com/en/ivitskiy/).
