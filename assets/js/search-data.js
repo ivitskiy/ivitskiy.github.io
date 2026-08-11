@@ -16,11 +16,88 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-the-best-countries-to-target-in-google-ads-and-the-one-most-advertisers-wrongly-exclude",
+        },{id: "post-the-last-step-gap-ad-strength-sorts-every-step-of-its-scale-except-one",
+        
+          title: 'The Last-Step Gap: Ad Strength Sorts Every Step of Its Scale Except One... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Compared inside the same ad group across 72,970 ads, Good beats Average on click-through rate in 71.1% of cases, while Excellent beats Good in only 48.3%.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-ad-strength-same-ad-group", "_blank");
+          
+        },
+      },{id: "post-the-score-rank-gap-what-optimization-score-actually-ranks-inside-your-account",
+        
+          title: 'The Score-Rank Gap: What Optimization Score Actually Ranks Inside Your Account <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Across 29 Google Ads accounts and 6,071 scored campaigns, the median rank correlation between a campaign&#39;s optimization score and its click-through rate is 0.05, and for conversion rate it is -0.05.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-optimization-score-vs-campaign-performance", "_blank");
+          
+        },
+      },{id: "post-half-your-wasted-google-ads-spend-sits-in-10-of-your-search-terms",
+        
+          title: 'Half Your Wasted Google Ads Spend Sits in 10% of Your Search Terms... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. We already published how much Google Ads money goes to search terms that never convert. This is the follow-up question: where does it sit. Across 32 accounts and 5.2 million paid search terms with zero conversions in the Doctor Ads Profit Forensics portfolio, the most expensive 10% of those terms hold a ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-wasted-spend-concentration", "_blank");
+          
+        },
+      },{id: "post-half-the-competitors-in-your-google-ads-auction-insights-have-no-impression-share",
+        
+          title: 'Half the Competitors in Your Google Ads Auction Insights Have No Impression Share... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. Auction Insights looks like a league table of your competitors. We pulled the raw exports from 22 Google Ads accounts across 9 verticals inside the Doctor Ads Profit Forensics portfolio and counted what is actually in them. Of the 159 rivals Google named, 90 arrived with no impression share at all, just ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-auction-insights-sub-threshold-rivals", "_blank");
+          
+        },
+      },{id: "post-performance-max-overshoots-its-target-cpa-in-71-of-campaigns",
+        
+          title: 'Performance Max Overshoots Its Target CPA in 71% of Campaigns <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. Your account summary says the cost per sale is close to goal. That calm is an average. Underneath it, we took 2,723 campaigns that were given an explicit target cost per sale, in 18 accounts, and asked each one whether it delivered what it was told to deliver. Performance Max came in ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/performance-max-target-cpa-overshoot", "_blank");
+          
+        },
+      },{id: "post-how-much-more-does-broad-match-actually-cost-6-4-at-the-median",
+        
+          title: 'How Much More Does Broad Match Actually Cost? 6.4% at the Median <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. Everyone knows exact match usually wins on cost. The largest public study on this, Optmyzr&amp;#8217;s 2,637-account analysis, found exact ahead on cost per action in 70.79% of accounts. We measured the same comparison inside 25 accounts of our own managed portfolio and landed in the same direction: broad was more expensive in ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/broad-match-vs-exact-match-cost-per-conversion", "_blank");
+          
+        },
+      },{id: "post-the-dead-hours-in-your-google-ads-account",
+        
+          title: 'The Dead Hours in Your Google Ads Account <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The short version. Most owners assume Google spreads the budget across the day in roughly the right way, so ad scheduling feels optional. In the accounts I examine it is not optional at all: the median account runs 51.0% of its spend in hours when its own click rate is below its daily average. Dayparting ... Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://thedoctorads.com/blog/google-ads-dayparting-dead-hours", "_blank");
+          
+        },
+      },{id: "post-the-best-countries-to-target-in-google-ads-and-the-one-most-advertisers-wrongly-exclude",
         
           title: 'The Best Countries to Target in Google Ads (And the One Most Advertisers... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "The short version. Most advertisers copy the same geographic playbook: target the United States, maybe a few rich English-speaking countries, and exclude the places everyone else excludes. That herd behavior creates a quiet opportunity, because the market everyone avoids is often the one with the least competition and the best return. In one vertical, Mexico ... Read more",
+        description: "The short version. Most advertisers copy the same geographic playbook: target the United States, maybe a few rich English-speaking countries, and exclude the places everyone else excludes. That herd behavior creates a quiet opportunity, because the market everyone avoids is often the one with the least competition and the best return. In one vertical, a ... Read more",
         section: "Posts",
         handler: () => {
           
@@ -71,17 +148,6 @@ ninja.data = [{
             window.open("https://medium.com/@ivitskiy/mastering-bid-adjustments-in-google-ads-for-better-campaign-results-a497be4db1cf?source=rss-da3cb2228471------2", "_blank");
           
         },
-      },{id: "post-google-ads-bid-adjustments-the-profit-lever-most-accounts-ignore",
-        
-          title: 'Google Ads Bid Adjustments: The Profit Lever Most Accounts Ignore <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "The short version. A bid adjustment raises or lowers your bid for a specific device, location, time, audience, or demographic. In the manual-bidding era they were a primary lever. Under Smart Bidding, most of them are signals the algorithm reads and largely sets for itself, not dials you turn by hand. That shift changes what ... Read more",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://thedoctorads.com/blog/mastering-bid-adjustments-in-google-ads-for-better-campaign-results", "_blank");
-          
-        },
       },{id: "post-mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results",
         
           title: 'Mastering Google Ads Target CPA Bidding for Optimal Campaign Results <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -93,17 +159,6 @@ ninja.data = [{
             window.open("https://medium.com/@ivitskiy/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results-4817f1750a47?source=rss-da3cb2228471------2", "_blank");
           
         },
-      },{id: "post-google-ads-target-cpa-bidding-how-often-it-actually-hits-the-target",
-        
-          title: 'Google Ads Target CPA Bidding: How Often It Actually Hits the Target <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "The short version. Target CPA bidding lets you name a cost per conversion, and Google Ads sets bids automatically to hit it. It is sold as a promise: name your number, the machine holds it. Across $42M of real spend, that promise holds far less often than advertisers assume. Only 1 in 3 Target CPA ... Read more",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://thedoctorads.com/blog/mastering-google-ads-target-cpa-bidding-for-optimal-campaign-results", "_blank");
-          
-        },
       },{id: "post-mastering-google-ads-portfolio-bid-strategies-for-better-campaigns",
         
           title: 'Mastering Google Ads Portfolio Bid Strategies for Better Campaigns <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -113,17 +168,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@ivitskiy/mastering-google-ads-portfolio-bid-strategies-for-better-campaigns-862f21d81918?source=rss-da3cb2228471------2", "_blank");
-          
-        },
-      },{id: "post-google-ads-portfolio-bid-strategies-what-133m-in-spend-reveals",
-        
-          title: 'Google Ads Portfolio Bid Strategies: What $133M in Spend Reveals <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "The short version. A portfolio bid strategy pools several campaigns under one shared automated goal, so Google Ads optimizes bids across the whole group instead of one campaign at a time. It is the right tool when campaigns share a conversion goal and no single one has enough data to bid well alone. But in ... Read more",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://thedoctorads.com/blog/mastering-google-ads-portfolio-bid-strategies", "_blank");
           
         },
       },{
